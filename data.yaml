@@ -1,0 +1,13 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 3
+names: ['keloid','jerawat','tahilalt']
+
+roboflow:
+  workspace: candrasulistioyono
+  project: keloid
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/candrasulistioyono/keloid/dataset/1

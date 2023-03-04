@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>tahilalat07.jpeg</filename>
+	<path>tahilalat07.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>249</width>
+		<height>202</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tahilalat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>103</ymin>
+			<xmax>127</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>

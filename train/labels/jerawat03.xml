@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>jerawat03.jpeg</filename>
+	<path>jerawat03.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jerawat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>93</ymin>
+			<xmax>525</xmax>
+			<ymax>402</ymax>
+		</bndbox>
+	</object>
+</annotation>
