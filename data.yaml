@@ -3,11 +3,11 @@ val: valid/images
 test: test/images
 
 nc: 3
-names: ['keloid','jerawat','tahilalt']
+names: ["kacang1", "kacang2", "kacang3", "kacang4"]
 
 roboflow:
-  workspace: candrasulistioyono
-  project: keloid
+  workspace: dylansyahputra
+  project: kacang
   version: 1
-  license: CC BY 4.0
-  url: https://universe.roboflow.com/candrasulistioyono/keloid/dataset/1
+  license: ""
+  url: ""
